@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "IceCream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KelWest714.github.io/command-project-15",
+  "homepage": "https://ImVladislav.github.io/IceCream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-15/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
